@@ -8,6 +8,7 @@ package tree;
  * @see MyTree
  */
 public class MyNode {
+  //Hello muy man
   private MyNode father;
   private MyNode left;
   private MyNode right;
@@ -15,6 +16,7 @@ public class MyNode {
   private int hello;
   private boolean buggy = true;
   private int bugfix;
+  private int bugfix20;
 
 
 
