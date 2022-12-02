@@ -13,7 +13,6 @@ public class MyNode {
   private MyNode right;
   private int value;
   private int hello;
-  private int bugfix; 
   private boolean buggy = true;
   private int bugfix;
 
