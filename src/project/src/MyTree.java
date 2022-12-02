@@ -13,11 +13,16 @@ import tree.MyNode;
 public class MyTree {
   private MyNode root;
   private int hello;
+  private int valuex;
 
   /**
    * Class constructor.
    */
   public MyTree() {
+  }
+
+  public int getValue() {
+    return valuex;
   }
 
   /**
