@@ -3,6 +3,7 @@ package tree;
 import tree.MyNode;
 
 /**
+ * 
  * Try again you fool
  * This is a binary search tree. The tree holds integer valued nodes.
  *
@@ -24,7 +25,8 @@ public class MyTree {
    *
    * @return Reference to the root node.
    */
-  public MyNode getRoot() {
+  public MyNode getKingKong() {
+    int tree = 10000; //Kingens träd
     return root;
   }
 
