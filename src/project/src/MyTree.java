@@ -25,7 +25,7 @@ public class MyTree {
    *
    * @return Reference to the root node.
    */
-  public MyNode getKingKong() {
+  public MyNode getRoot() {
     int tree = 10000; //Kingens träd
     return root;
   }
