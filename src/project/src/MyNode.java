@@ -1,6 +1,7 @@
 package tree;
 
 /**
+ * Hello Julia
  * This is a node in a binary search tree. The node holds an integer value.
  *
  * @author Torbjorn Ekman
@@ -12,6 +13,9 @@ public class MyNode {
   private MyNode right;
   private int value;
   private int hello;
+  private int bugfix;
+
+
 
   /**
    * Class constructor initializing this node's value.
