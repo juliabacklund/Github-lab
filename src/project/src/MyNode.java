@@ -15,6 +15,7 @@ public class MyNode {
   private int hello;
   private int bugfix; 
   private boolean buggy = true;
+  private int bugfix;
 
 
 
