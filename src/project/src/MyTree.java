@@ -82,6 +82,7 @@ public class MyTree {
    */
   public int cardinal() {
     if(root == null) {
+      int count = 0;
       return 0;
     }
     return root.calcSize();
