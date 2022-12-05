@@ -20,6 +20,7 @@ public class MyTree {
    * Class constructor.
    */
   public MyTree() {
+    //change by me 
   }
 
   public int getValue() {
