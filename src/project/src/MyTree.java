@@ -14,6 +14,7 @@ public class MyTree {
   private MyNode root;
   private int hello;
   private int valuex;
+  private int counter;
 
   /**
    * Class constructor.
@@ -23,6 +24,10 @@ public class MyTree {
 
   public int getValue() {
     return valuex;
+  }
+
+  public int getCounter() {
+    return counter;
   }
 
   /**
