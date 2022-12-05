@@ -21,6 +21,7 @@ public class MyTree {
    */
   public MyTree() {
     //change by me 
+    //change by Julia
   }
 
   public int getValue() {
