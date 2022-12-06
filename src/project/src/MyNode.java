@@ -16,11 +16,7 @@ public class MyNode {
   private int hello;
   private boolean buggy = true;
   private int bugfix;
-<<<<<<< HEAD
-  private boolean hereJules;
-=======
   private int bugfix20;
->>>>>>> 8b1debdf39b637e43af80b1e1fa3d9ef5e8bce02
 
   //hej en ändring
 

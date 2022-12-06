@@ -29,7 +29,11 @@ public class MyTree {
     //change by Julia
   }
 
+<<<<<<< HEAD
   public int getValueHello() {
+=======
+  public int getJuliaAFive() {
+>>>>>>> refs/remotes/origin/main
     return valuex;
   }
 
