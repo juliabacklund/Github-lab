@@ -15,6 +15,7 @@ public class MyNode {
   private int hello;
   private boolean buggy = true;
   private int bugfix;
+  private boolean hereJules;
 
 
 
