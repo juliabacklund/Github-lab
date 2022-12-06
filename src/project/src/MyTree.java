@@ -14,15 +14,25 @@ public class MyTree {
   private MyNode root;
   private int hello;
   private int valuex;
+  private int counter;
+ //blablabla changes in testing_pull branch
 
+  //helllooo
+ //chaning something in main
   /**
    * Class constructor.
    */
   public MyTree() {
+    //change by me 
+    //change by Julia
   }
 
   public int getValue() {
     return valuex;
+  }
+
+  public int getCounter() {
+    return counter;
   }
 
   /**
