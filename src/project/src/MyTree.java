@@ -27,7 +27,7 @@ public class MyTree {
     //change by Julia
   }
 
-  public int getValue() {
+  public int getJuliaAFive() {
     return valuex;
   }
 
